@@ -15,5 +15,4 @@ end
 
 def move(board,input_to_index, step="X")
   board[input_to_index] = step
-  return board
 end
